@@ -7,8 +7,8 @@ Zendesk API Testing and framework
 rvm
 ruby 2.4.1
   gems needed:
-   json
-   yaml
+   json,
+   yaml,
    rest-client
 
 ## Running the tests
